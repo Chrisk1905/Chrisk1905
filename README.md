@@ -2,7 +2,7 @@
 
 🇺🇸 I'm a Software Developer in the Seattle area. 
 
-🎓 I got my fancy pants degree from U-Dub. 
+🎓 I got my fancy pants Computer Science degree from U-Dub. 
 
 🌐 I'm working on web apps. CSS, React, Vite, Next, Node. 
 
