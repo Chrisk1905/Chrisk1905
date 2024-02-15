@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris Kim 👋
 * 🇺🇸 I'm a Software Developer in the Seattle area. 
-* 🎓 I got my fancy pants Computer Science degree from U-Dub. 
+* 🎓 I got my fancy pants Computer Science degree from U-Dub. Go Huskies! 
 * 🌐 I'm working on web apps. CSS, React, Vite, Next, Node. 
 * 💻 I'm using Javascript, Python, and Go.
 * 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 🧒🏿 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I teach programming to kids. 
