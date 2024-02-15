@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Chris Kim 👋
+
+🇺🇸 I'm a Software Developer in the Seattle area. 
+
+🎓 I got my fancy pants degree from U-Dub. 
+
+🌐 I'm working on web apps. CSS, React, Vite, Next, Node. 
+
+💻 I'm using Javascript, Python, and Go.
+
+ 👧🏾 👧🏻 🧒🏾 🧒🏻 I teach programming to kids. 
 
 <!--
 **Chrisk1905/Chrisk1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
