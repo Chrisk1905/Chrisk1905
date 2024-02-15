@@ -8,7 +8,7 @@
 
 💻 I'm using Javascript, Python, and Go.
 
- 👧🏾 👧🏻 🧒🏾 🧒🏻 I teach programming to kids. 
+ 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 🧒🏿 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I teach programming to kids. 
 
 <!--
 **Chrisk1905/Chrisk1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
