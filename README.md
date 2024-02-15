@@ -3,7 +3,7 @@
 * 🎓 I got my fancy pants Computer Science degree from U-Dub. Go Huskies! 🐾
 * 🌐 I'm working on web apps. CSS, React, Vite, Next, Node. 
 * 💻 I'm using Javascript, Python, and Go.
-* 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 🧒🏿 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I teach programming to kids. 
+* 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 🧒🏿 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I'm teaching programming to kids. 
 
 <!--
 **Chrisk1905/Chrisk1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
