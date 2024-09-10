@@ -1,9 +1,9 @@
 ### Hi there, I'm Chris Kim 👋
 * 🇺🇸 I'm a Software Developer in the Seattle area. 
-* 🎓 I got my Computer Science degree from U-Dub. Go Huskies! 🐾
+* 🎓 I got my Computer Science degree from UW. Go Huskies! 🐾
 * 🌐 I'm working on web apps. CSS, React, Vite, Next, Node. 
-* 💻 I'm using Javascript, Python, and Go.
-* 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 👧🏼 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I'm teaching programming to kids. 
+* 💻 My favorite languages are Go and Python.
+* 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 👧🏼 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I'm teaching game development to elementrary school kids in Seattle. 
 
 <!--
 **Chrisk1905/Chrisk1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
