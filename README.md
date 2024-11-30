@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris Kim 👋
 * 🇺🇸 I'm a Software Developer in the Seattle area. 
 * 🎓 I got my Computer Science degree from UW. Go Huskies! 🐾
-* 🌐 I'm working on web apps. Go, Javascript, CSS, React, Vite, Next, Node. 
+* 🌐 I'm working on web apps. 
 * 💻 My favorite languages are Go and Python.
 * 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 👧🏽   I'm teaching game development at Seattle Schools. 
 
