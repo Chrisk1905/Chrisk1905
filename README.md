@@ -3,7 +3,7 @@
 * 🎓 I got my Computer Science degree from UW. Go Huskies! 🐾
 * 🌐 I'm working on web apps. Go, Javascript, CSS, React, Vite, Next, Node. 
 * 💻 My favorite languages are Go and Python.
-* 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 🧒🏻 👧🏼 👦🏽 👦🏻 👦🏿 👧🏽 👧🏻  I'm teaching game development at Seattle Schools. 
+* 👧🏾 👧🏻 🧒🏾 🧒🏻 🧒🏼 👧🏽   I'm teaching game development at Seattle Schools. 
 
 <!--
 **Chrisk1905/Chrisk1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
